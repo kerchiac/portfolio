@@ -200,6 +200,7 @@ hr {
   overflow: hidden;
   margin: 0;
   position: relative;
+  cursor: pointer;
 }
 .portfolio-overlay {
   display: -webkit-box;
